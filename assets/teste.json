@@ -1,0 +1,79 @@
+[
+    {
+      "desc": "Honda",
+      "tipo": "menu",
+      "itens": [
+        {
+          "desc": "Comando 01",
+          "tipo": "comando",
+          "comando": "CM+010203"
+        },
+        {
+          "desc": "Honda Moto Teste 1.0",
+          "tipo": "menu",
+          "itens": [
+            {
+              "desc": "Comando 01",
+              "tipo": "comando",
+              "comando": "CM+010203"
+            },
+            {
+              "desc": "Honda Moto Teste 2.0",
+              "tipo": "menu",
+              "itens": [
+                {
+                  "desc": "Comando 01",
+                  "tipo": "comando",
+                  "comando": "CM+010203"
+                },
+                {
+                  "desc": "Honda Moto Teste3.0",
+                  "tipo": "menu",
+                  "itens": [
+                    {
+                      "desc": "Comando 01",
+                      "tipo": "comando",
+                      "comando": "CM+010203"
+                    },
+                    {
+                      "desc": "Honda Moto Teste 4.0",
+                      "tipo": "menu",
+                      "itens": [
+                        {
+                          "desc": "Comando 01",
+                          "tipo": "comando",
+                          "comando": "CM+010203"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "desc": "Volkswagen",
+      "tipo": "menu",
+      "itens": [
+        {
+          "desc": "Comando 01",
+          "tipo": "comando",
+          "comando": "CP+020007"
+        },
+        {
+          "desc": "Carga",
+          "tipo": "menu",
+          "itens": [
+            {
+              "desc": "Entrar na carga",
+              "tipo": "comando",
+              "comando": "CP+020405"
+            }
+          ]
+        }
+      ]
+    }
+  ]
